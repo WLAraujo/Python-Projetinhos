@@ -1,5 +1,6 @@
 import math
 import random
+import jogo
 
 class Jogador:
     def __init__(self, letra):
