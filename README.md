@@ -7,3 +7,6 @@ Lista de projetos:
 3. Pedra-Papel-Tesoura
 4. Forca
 5. Jogo da Velha
+6. Busca Binária
+7. Campo Minado
+8. Secret Manager
