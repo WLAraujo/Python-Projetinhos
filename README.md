@@ -1,4 +1,4 @@
-# Python-Projetinhos
+# python_projetos_iniciante
 Nesse repositório serão colocados projetos que tem por objetivo treinar programação usando Python.
 
 Lista de projetos:
